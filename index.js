@@ -1,10 +1,5 @@
 /*
 Integrantes de grupo: Felix Maldonado y Juany Ramirez
-
-Para poder correr el programa solo se debe abrir 
-la terminal que se encuentra en la parte inferior de
-la pantalla y refrescar el browser que esta a la 
-derecha.
 */
 
 const twoLettered = [
