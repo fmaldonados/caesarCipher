@@ -1,0 +1,19 @@
+{
+  "name": "caesarcipher",
+  "version": "1.0.0",
+  "description": "encriptacion ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmaldonados/caesarCipher.git"
+  },
+  "author": "Felix Maldonado, Juany Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fmaldonados/caesarCipher/issues"
+  },
+  "homepage": "https://github.com/fmaldonados/caesarCipher#readme"
+}
